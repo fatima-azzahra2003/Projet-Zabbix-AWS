@@ -146,14 +146,14 @@ Vérification via **services.msc**.
 
 * Tous les hôtes visibles
 * Statut **Available (vert)**
-![Architecture AWS Zabbix](screenshots/8-Tableau de bord Zabbix montrant la disponibilité (ZBX vert) des agents Linux et Windows.png)
-
+![Tableau de bord Zabbix montrant la disponibilité (ZBX vert) des agents Linux et Windows](screenshots/8-Tableau de bord Zabbix montrant la disponibilité (ZBX vert) des agents Linux et Windows.png)
+---
 
 ### 📈 Analyse des Performances
 
 * Graphiques temps réel
 * Exemple : consommation CPU sur client Windows
-![Architecture AWS Zabbix](screenshots/9-Graphique de consommation CPU du client Windows en temps réel.png)
+![Graphique de consommation CPU du client Windows en temps réel](screenshots/9-Graphique de consommation CPU du client Windows en temps réel.png)
 ---
 
 ## ✅ Conclusion
